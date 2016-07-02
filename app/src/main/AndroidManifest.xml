@@ -17,6 +17,7 @@
         </activity>
         <activity android:name=".CalcActivity" />
         <activity android:name=".CalenderActivity" />
+        <activity android:name=".ImageActivity"></activity>
     </application>
 
 </manifest>
